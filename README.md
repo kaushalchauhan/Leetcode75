@@ -12,3 +12,4 @@ Solving leetcode 75
 8. [Problem - 334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description)
 9. [Problem - 443. String Compression](https://leetcode.com/problems/string-compression/description)
 10. [Problem - 283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description)
+11. [Problem - 392. Is Subsequence](https://leetcode.com/problems/is-subsequence/description)
